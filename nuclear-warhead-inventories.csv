@@ -1,4 +1,4 @@
-Entity,Code,Year,nuclear_weapons_depl_strat,nuclear_weapons_depl_nonstrat,nuclear_weapons_reserve_nondepl,nuclear_weapons_retired
+Entity,Code,Year,Deployed strategic warheads,Deployed nonstrategic warheads,Nondeployed warheads,Retired warheads
 China,CHN,2022,0,0,350,0
 France,FRA,2022,280,0,10,0
 India,IND,2022,0,0,160,0
